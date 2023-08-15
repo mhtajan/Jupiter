@@ -1,0 +1,2 @@
+# Jupiter
+Jupiter - Discord Bot
