@@ -24,7 +24,7 @@ JUPITER is an all-in-one customized Discord bot designed to enhance your server'
 
 To add JUPITER to your Discord server, follow these steps:
 
-1. **Authorization:** Click [here](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot&permissions=YOUR_PERMISSIONS) to authorize JUPITER for your server. Replace `YOUR_CLIENT_ID` with the actual client ID and adjust permissions as needed.
+1. **Authorization:** Click [here](https://discord.com/api/oauth2/authorize?client_id=1141595311949754409&permissions=8&scope=bot) to authorize JUPITER for your server. Replace `YOUR_CLIENT_ID` with the actual client ID and adjust permissions as needed.
 
 2. **Configuration:** Once JUPITER is on your server, you can configure its settings using the `!jupiter config` command. This will open up a menu where you can customize various aspects of the bot's behavior.
 
